@@ -11,6 +11,10 @@ For many GIFs, yes. If they're hosted by imgur or giphy, you can do so. However,
 
 Unfortunately not. Only the visuals are accessible in this way; it is possible to also fetch the audio files, but as I'm not hosting these files externally, it is not possible to merge them via the Chrome extension at this time. 
 
+- *Will x feature be supported?*
+
+Improvements for this extension will be managed and planned via this repo. If you have any ideas about improvements or want to contribute, please [submit an issue!](https://github.com/soph-iest/reddit-video-extractor/issues/new)
+
 #### What were those steps again?
 1. Right-click on the link to the *post* (not the video).
 ![Step 1](https://i.imgur.com/MFL5AqZ.png)
@@ -24,5 +28,3 @@ Unfortunately not. Only the visuals are accessible in this way; it is possible t
 #### Why does this exist?
 I like linking stuff to my friends and got tired of having to link them the whole page.
 If you'd rather modify it on your own or not use it from the Chrome Web Store, feel free to clone and [use it unpackaged in Chrome on your own](https://webkul.com/blog/how-to-install-the-unpacked-extension-in-chrome/).
-
-If you have any ideas about improvements or want to contribute, please [submit an issue!](https://github.com/soph-iest/reddit-video-extractor/issues/new)
