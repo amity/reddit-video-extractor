@@ -1,0 +1,18 @@
+{
+  "name": "Reddit Video Linker",
+  "short_name": "vreddit-extension",
+  "version": "1.0.0",
+  "author": "Sophie Debs",
+
+  "permissions": ["contextMenus", "tabs", "*://*/*"],
+
+  "background": {"scripts": ["main.js"]},
+  "description": "Get the direct link to a video on reddit",
+  "icons": {
+    "128": "img/icon128.png",
+    "16": "img/icon16.png",
+    "32": "img/icon32.png",
+    "48": "img/icon48.png"
+  },
+  "manifest_version": 2
+}
