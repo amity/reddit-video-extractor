@@ -11,9 +11,6 @@ Chrome extension that adds a button to the context menu (right-click) on reddit 
 3. Copy the link!
 ![Step 3](https://i.imgur.com/cDDeq8m.png)
 
-4. Bonus step: enjoy!
-![GIF of a puppy](https://v.redd.it/7h9xn9vddw841/DASH_720?source=fallback.gif)
-
 #### Why does this exist?
 I like linking stuff to my friends and got tired of having to link them the whole page.
 Feel free to clone and [use it in Chrome on your own](https://webkul.com/blog/how-to-install-the-unpacked-extension-in-chrome/), but it will also be released on the Chrome Web Store shortly
