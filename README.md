@@ -11,7 +11,7 @@ For many GIFs, yes. If they're hosted by imgur or giphy, you can do so. However,
 
 Unfortunately not. Only the visuals are accessible in this way; it is possible to also fetch the audio files, but as I'm not hosting these files externally, it is not possible to merge them via the Chrome extension at this time. 
 
-- *Will x feature be supported?*
+- *Will **X** feature be supported?*
 
 Improvements for this extension will be managed and planned via this repo. If you have any ideas about improvements or want to contribute, please [submit an issue!](https://github.com/soph-iest/reddit-video-extractor/issues/new)
 
