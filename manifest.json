@@ -1,10 +1,10 @@
 {
   "name": "Reddit Video Linker",
   "short_name": "vreddit-extension",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Sophie Debs",
 
-  "permissions": ["contextMenus", "tabs", "*://*/*"],
+  "permissions": ["contextMenus", "*://reddit.com/*"],
 
   "background": {"scripts": ["main.js"]},
   "description": "Get the direct link to a video on reddit",
